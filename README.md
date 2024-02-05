@@ -5,3 +5,5 @@ El modelo fue entrenado con 5000 imágenes para benign y para malignant, 4605 im
 Fuente de datos
 ![image](https://github.com/OrlandoAZ/Melanoma/assets/46329605/21132117-8f9a-4f1f-9b57-503c9982b00f)
 
+PPT de Presentación
+https://drive.google.com/drive/folders/1LJGOuFFtWUJjof5g4G77E8IU8stWSxPR?usp=sharing
