@@ -35,7 +35,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title('MODELO MELANOMAS EN HUMANOS')
 st.markdown("Aplicación elaborada por Orlando Advíncula Zeballos.")
 # Sección de carga de imágenes
-uploaded_file = st.file_uploader("Selecciona una imagen de un melanoma", type=["jpg", "jpeg", "png"])
+uploaded_file = st.file_uploader("Selecciona la imagen de un melanoma", type=["jpg", "jpeg", "png"])
 
 if uploaded_file is not None:
     # Guardar temporalmente el archivo
